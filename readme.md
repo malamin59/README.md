@@ -1,5 +1,7 @@
 <!-- Banner Image -->
-<img src="https://i.ibb.co/FbxK8Qh8/1737296043368.jpg" alt="Banner" width="100%" />
+<p align="center">
+  <img src="https://i.ibb.co/FbxK8Qh8/1737296043368.jpg" alt="Banner" width="700" height="250" />
+</p>
 
 # Hi, I'm Al Amin 👋  
 ## 💻 Full Stack Web Developer
