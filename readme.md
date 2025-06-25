@@ -1,4 +1,4 @@
-![Banner]<img src="https://i.ibb.co/FbxK8Qh8/1737296043368.jpg" alt="Banner" width="1200" height="350" />
+![Banner]<img src="https://i.ibb.co/FbxK8Qh8/1737296043368.jpg" alt="Banner" width="700" height="300" />
 
 
 
