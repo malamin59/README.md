@@ -4,7 +4,7 @@
 </p>
 
 # Hi, I'm Al Amin 👋  
-## 💻 Passionate Full Stack Web Developer from Bangladesh
+## 💻 Passionate Man Stack Web Developer from Bangladesh
 
 ---
 
