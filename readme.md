@@ -9,8 +9,7 @@
 ---
 
 ### 🚀 About Me
-I am a passionate full stack web developer from Bangladesh.  
-আমি বাংলাদেশ থেকে একজন প্রতিশ্রুতিবদ্ধ ফুলস্ট্যাক ওয়েব ডেভেলপার।  
+I am a passionate Man stack web developer from Bangladesh.  
 I love building web applications and learning new technologies.
 
 - 🔭 Currently working on a **Roommate Finder App**  
