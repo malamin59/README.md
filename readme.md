@@ -4,7 +4,7 @@
 </p>
 
 # Hi, I'm Al Amin 👋  
-## 💻 Man Stack Web Developer
+## 💻 Man Struck Web Developer
 
 ---
 
