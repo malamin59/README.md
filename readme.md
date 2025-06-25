@@ -1,3 +1,6 @@
+![Banner](https://i.ibb.co/FbxK8Qh8/1737296043368.jpg)
+
+
 # Hi, I'm Al Amin 👋  
 ## Man Stack Web Developer
 
