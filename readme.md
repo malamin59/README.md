@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co/FbxK8Qh8/1737296043368.jpg" alt="Banner" width="700" height="250" />
+  <img src="https://i.ibb.co/XrwtsB8K/unnamed.jpg" alt="Banner" width="700" height="250" />
 </p>
 
 # Hi, I'm Al Amin 👋  
