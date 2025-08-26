@@ -11,10 +11,9 @@
 ### 🚀 About Me
 I am a passionate Man stack web developer from Bangladesh.  
 I love building web applications and learning new technologies.
-
-- 🔭 Currently working on a **Roommate Finder App**  
+ 
 - 🌱 Exploring **Next.js** and **REST APIs**  
-- 💬 Ask me about **React, Tailwind CSS, Firebase**  
+- 💬 Ask me about **React, Tailwind CSS, , MongoDb, Firebase**  
 - 👨‍🎓 Learner at **Programming Hero**
 
 ---
